@@ -7,7 +7,6 @@ tmp/*
 sites/
 sites/*/files
 sites/*/private
-.htaccess
 .user.ini
 error_log
 php.ini
