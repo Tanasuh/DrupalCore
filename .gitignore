@@ -2,5 +2,11 @@
 sites/*/settings*.php
 
 # Ignore paths that contain user-generated content.
+tmp/
+tmp/*
+sites/
 sites/*/files
 sites/*/private
+.user.ini
+error_log
+php.ini
