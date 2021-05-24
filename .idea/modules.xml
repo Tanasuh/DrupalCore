@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/drupalcore.iml" filepath="$PROJECT_DIR$/.idea/drupalcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DrupalCore.iml" filepath="$PROJECT_DIR$/.idea/DrupalCore.iml" />
     </modules>
   </component>
 </project>
