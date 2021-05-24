@@ -4,4 +4,8 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
-.htaccess
+tmp/
+tmp/*
+sites/
+error_log
+php.ini
